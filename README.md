@@ -16,6 +16,7 @@
 - Visual Studio 2022 / .NET CLI
 
 ## 📁 Структура репозитория
+```text
 ├── Bank/ # Исходный код основного проекта
 │ ├── BankAccount.cs # Класс банковского счёта
 │ └── Bank.csproj
@@ -26,6 +27,7 @@
 ├── Bank.slnx # Файл решения Visual Studio
 ├── README.md # Этот файл
 └── Report.md # Отчёт о выполненной работе (исходник Markdown)
+```
 
 ## ✅ Запуск тестов
 
