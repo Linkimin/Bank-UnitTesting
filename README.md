@@ -27,6 +27,7 @@
 ├── Bank.slnx # Файл решения Visual Studio
 ├── README.md # Этот файл
 └── Report.md # Отчёт о выполненной работе (исходник Markdown)
+└── Report.pdf # Скорректированная версия Report в pdf формате
 ```
 
 ## ✅ Запуск тестов
