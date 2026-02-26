@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/.gitignore/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Folder Name="/Report/">
+    <File Path="Report.md" />
+  </Folder>
+  <Project Path="Bank/Bank.csproj" />
+  <Project Path="BankTests/BankTests.csproj" />
+</Solution>
