@@ -37,6 +37,7 @@
 ### Через .NET CLI
 ```bash
 dotnet test BankTests/BankTests.csproj
+```
 
 ## 📊 Результаты
 Все три теста успешно проходят, подтверждая корректность метода Debit:
