@@ -51,7 +51,7 @@ dotnet test BankTests/BankTests.csproj
   `Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange`
 
 ## 📄 Отчёт
-Подробный отчёт о выполнении работы доступен в файле Report.md и сконвертированной версии Report.pdf.
+Подробный отчёт о выполнении работы доступен в файле Report.md и сконвертированной версии [Report.pdf](https://disk.yandex.ru/i/9vHZJX7ZWt5wOw).
 
 ## 📌 Автор
 [Бахматов Матвей / Linkimin]
